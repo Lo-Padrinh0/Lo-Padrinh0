@@ -3,7 +3,7 @@
 # 💫 Sobre mim:
 😁 Nome: Júlio César<br>👴🏾 Idade: 18 anos<br>🥷🏾 Profissão: Futuro Freelancer<br>
 
-![95a3da8f-0d8a-4ca9-bed4-0bbd059f0721](https://github.com/Lo-Padrinh0/Lo-Padrinh0/assets/166052100/ccff9ba0-1d5e-475c-bf05-f9c9a9f7e677)
+![✰Nezuko kamado](https://github.com/Lo-Padrinh0/Lo-Padrinh0/assets/166052100/c17537ea-0c17-4224-98f4-0f7d6cc5b1f1)
 
 # 🚀 Jornada :
 📖 ESTUDANTE : Desenvolvimento Front End<br>🏯 OBJETIVO : Técnico ou desenvolvedor em Ti<br>🧑🏾‍💻 Lógica de programação<br>
@@ -20,7 +20,7 @@
 
 <a href="https://www.instagram.com/bsb_juliocesar_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-  <a href="https://www.linkedin.com/inLo-Padrinh0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://[www.linkedin.com/inLo-Padrinh0/](https://www.linkedin.com/in/júlio-césar-2a3b77273/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <a href="mailto:juliomaia20202002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
