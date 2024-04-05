@@ -20,7 +20,7 @@
 
 <a href="https://www.instagram.com/bsb_juliocesar_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-  <a href="https://[www.linkedin.com/inLo-Padrinh0/](https://www.linkedin.com/in/júlio-césar-2a3b77273/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/júlio-césar-2a3b77273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <a href="mailto:juliomaia20202002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
